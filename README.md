@@ -35,11 +35,16 @@ const name = 'Test';
 
 - [![](https://camo.githubusercontent.com/7f88c331d6547df9a775272bef2dad90549b096b9ef1d542868d282b33096d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5961726e2d3243384542423f7374796c653d666f722d7468652d6261646765266c6f676f3d7961726e266c6f676f436f6c6f723d7768697465)]() [![](https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)]() [![](https://camo.githubusercontent.com/22d1116e541b7b380161ed7c77ceb24e5e88a71acbec6d9dae7a5624b23a46fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)]()
 
+<details>
+<i><b>Others</b></i>
+
 ![](https://api.ghprofile.me/view?username=t6fg78q9jio-t6fg78q9jio&label=repository%20view%20count&color=00d7e9)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=t6fg78q9jio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![](https://github-readme-stats.vercel.app/api?username=t6fg78q9jio&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+</details>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">
 

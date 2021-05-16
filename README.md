@@ -13,6 +13,4 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=mehmet-mert&show_icons=true&locale=en&layout=compact" alt = "mehmet- mert "/> </p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t6fg78q9jio&" alt="t6fg78q9jio" /></p>

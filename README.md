@@ -14,3 +14,5 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t6fg78q9jio&" alt="t6fg78q9jio" /></p>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:test@gmail.com)](mailto:test@gmail.com)

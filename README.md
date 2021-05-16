@@ -12,9 +12,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=t6fg78q9jio&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-
-![](https://github-readme-stats.vercel.app/api?username=t6fg78q9jio&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t6fg78q9jio&" alt="t6fg78q9jio" /></p>
